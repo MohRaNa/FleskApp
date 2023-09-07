@@ -1,1 +1,1 @@
-# Para correr el codigo es app.py# FleskApp
+# Para correr el codigo es python app.py # FleskApp
